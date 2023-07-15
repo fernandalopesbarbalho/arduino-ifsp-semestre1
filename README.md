@@ -13,4 +13,9 @@ Um LED fica acesso por 1 segundo e enquanto ele fica apagado por 1 segundo, outr
 
 ![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/abbed5df-b239-4611-bf2b-1170c4a90996)
 
+## Projeto 3 Exercício Semáforo - 10/04/23
+O LED verde fica acesso por 10 segundos, em seguida, o amarelo fica por 2 segundos e, por fim, o vermelho acende por 10 segundos. [Visualizar no Wokwi](https://wokwi.com/projects/361662748339575809).
+
+![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/93287495-9613-4ae6-a0fa-5588842f5584)
+
 ## Ainda em Atualização
