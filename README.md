@@ -28,7 +28,7 @@ O LED verde fica acesso por 10 segundos, em seguida, o amarelo fica por 2 segund
 Dois LEDs se acendem de modo assíncrono, o projeto é montado em um protoboard.
 [Visualizar no Wokwi](https://wokwi.com/projects/362297676710488065).
 
-![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/a70ca33e-17d1-4e6b-951e-adb920c067ed)]
+![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/a70ca33e-17d1-4e6b-951e-adb920c067ed)
 
 ## Projeto 6 LED Brilho - 24/04/23
 O LED vai aumentando seu brilho e depois diminuindo.
