@@ -25,8 +25,15 @@ O LED verde fica acesso por 10 segundos, em seguida, o amarelo fica por 2 segund
 ![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/93287495-9613-4ae6-a0fa-5588842f5584)
 
 ## Projeto 5 Protoboard - 17/04/23
-Dois LEDs se acendem de modo assíncrono, o projeto é montado em um protoboard. [Visualizar no Wokwi](https://wokwi.com/projects/362297676710488065).
+Dois LEDs se acendem de modo assíncrono, o projeto é montado em um protoboard.
+[Visualizar no Wokwi](https://wokwi.com/projects/362297676710488065).
 
-![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/a70ca33e-17d1-4e6b-951e-adb920c067ed)
+![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/a70ca33e-17d1-4e6b-951e-adb920c067ed)]
+
+## Projeto 6 LED Brilho - 24/04/23
+O LED vai aumentando seu brilho e depois diminuindo.
+[Visualizar no Wokwi](https://wokwi.com/projects/362929354498519041).
+
+![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/c667bf8d-9fe7-48f5-be4f-e1d04651e2c1)
 
 ## Ainda em Atualização
