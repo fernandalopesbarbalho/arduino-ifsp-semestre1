@@ -36,4 +36,10 @@ O LED vai aumentando seu brilho e depois diminuindo.
 
 ![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/c667bf8d-9fe7-48f5-be4f-e1d04651e2c1)
 
+## Projeto 7 LED Piscando - 24/04/23
+O LED permanece piscando.
+[Visualizar no Wokwi](https://wokwi.com/projects/363019112978046977).
+
+![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/72bf2340-b20d-4953-9941-323e6e9154d8)
+
 ## Ainda em Atualização
