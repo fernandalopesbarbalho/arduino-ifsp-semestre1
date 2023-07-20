@@ -42,4 +42,10 @@ O LED permanece piscando.
 
 ![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/72bf2340-b20d-4953-9941-323e6e9154d8)
 
+## Projeto 8 Buzzer SOS - 08/05/22
+O Buzzer emite "SOS" em código Morse.
+[Visualizar no Wokwi](https://wokwi.com/projects/364199465150727169).
+
+![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/15a1ebe5-c57c-4f35-8a19-673815990a52)
+
 ## Ainda em Atualização
