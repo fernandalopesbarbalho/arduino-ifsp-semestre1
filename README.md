@@ -48,4 +48,11 @@ O Buzzer emite "SOS" em código Morse.
 
 ![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/15a1ebe5-c57c-4f35-8a19-673815990a52)
 
+## Projeto 9 LED e Termistor - 15/05/23
+O Termistor detecta a temperatura e o LED acende caso ela for menor que 24 Celsius. Um código exemplo foi disponibilizado pelo professor e era necesário realizar correções e adições.
+[Visualizar no Wokwi](https://wokwi.com/projects/364833195859081217).
+
+![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/6ef89e61-f345-48ec-846c-41554b39290f)
+
+
 ## Ainda em Atualização
