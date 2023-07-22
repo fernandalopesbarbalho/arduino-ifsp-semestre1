@@ -54,5 +54,10 @@ O Termistor detecta a temperatura e o LED acende caso ela for menor que 24 Celsi
 
 ![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/6ef89e61-f345-48ec-846c-41554b39290f)
 
+## Projeto 10 Buzzer e Encoder - 20/05/23
+Aumenta a frequência do tom produzido pelo Buzzer quando girar o Encoder no sentido horário, diminui no sentido anti-horário e interrompe o funcionamento do Buzzer quando o botão do Encoder for pressionado. Um código exemplo foi disponibilizado pelo professor e era necesário realizar correções e adições.
+[Visualizar no Wokwi](https://wokwi.com/projects/365277320862091265).
+
+![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/f604a7d5-dfc6-4aeb-a384-c206aa1aaf67)
 
 ## Ainda em Atualização
