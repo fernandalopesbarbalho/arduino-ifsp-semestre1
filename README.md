@@ -60,4 +60,8 @@ Aumenta a frequência do tom produzido pelo Buzzer quando girar o Encoder no sen
 
 ![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/f604a7d5-dfc6-4aeb-a384-c206aa1aaf67)
 
-## Ainda em Atualização
+## Projeto 11 LDR - 29/05/23
+Utilizando um sensor LDR, um LED indica um ambiente claro e outro LED um ambiente escuro, quando o ambiente for claro o Buzzer toca um alerta sonoro. 
+[Visualizar no Wokwi](https://wokwi.com/projects/366101548128863233).
+
+![image](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/assets/137642560/3ee48dd5-75d5-48b0-93c4-daba8b62baf9)
