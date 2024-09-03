@@ -1,6 +1,8 @@
 # Projetos com Arduino
 Projetos realizados com Arduino produzidos em aula durante primeiro semestre de Análise e Desenvolvimento de Sistemas (IFSP), referente à matéria de Internet das Coisas (IOT).
 
+Nota final: 10.
+
 ## [Projeto 1 LED](https://github.com/fernandalopesbarbalho/arduino-ifsp-semestre1/blob/main/projeto1_led.ino) - 03/04/23
 O LED fica acesso por 1 segundo e apagado por 1 segundo.
 [Visualizar no Wokwi](https://wokwi.com/projects/361030389429046273).
